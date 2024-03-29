@@ -7,7 +7,7 @@ const Home = () => {
             <div class="container">
                 <div class="row">
                     <div class="col-12">
-                        <a href="#" class="logo">
+                        <a class="logo">
                             <img src="images/logo.png" width="294px" alt/>
                         </a>
                     </div>
@@ -34,7 +34,7 @@ const Home = () => {
                                 AI applications and we make problem-solving look
                                 like a coffee break.</p>
                         </div>
-                        <a href="#"
+                        <a 
                             class="btn btn-primary mt-lg-5 mt-md-4 mt-4">Brainy
                             who?
                             <span>
@@ -181,7 +181,7 @@ const Home = () => {
                         <div class="address_bg">
                             <h5 class="mb-lg-4 mb-md-4 mb-3 pb-lg-2">251 East
                                 32nd Street 7C NYC, NY 10016 United States</h5>
-                            <a href="#">Show on map <svg
+                            <a >Show on map <svg
                                     xmlns="http://www.w3.org/2000/svg"
                                     width="25" height="25" viewBox="0 0 25 25"
                                     fill="none">
@@ -214,13 +214,13 @@ const Home = () => {
                         <div class="banner_content">
                             <ul
                                 class=" d-flex align-items-center justify-content-lg-end justify-content-md-end justify-content-center gap-4">
-                                <li><a href="#">
+                                <li><a >
                                         Facebook
                                     </a></li>
-                                <li><a href="#">
+                                <li><a >
                                         X
                                     </a></li>
-                                <li><a href="#">
+                                <li><a >
                                         LinkedIn
                                     </a></li>
                             </ul>
